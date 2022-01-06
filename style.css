@@ -1,0 +1,23 @@
+ body{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
+
+.titulo{
+    font-size: 3.5rem;
+    color: rgba(3, 3, 114, 0.801);
+    text-align: center;
+}
+
+.parrafo{
+    padding: 15px;
+    color: rgb(49, 49, 49);
+    text-align: justify;
+}
+
+.button{
+    padding: 10px;
+    max-width: 250px;
+}
